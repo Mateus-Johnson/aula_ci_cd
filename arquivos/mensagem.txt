@@ -1,5 +1,5 @@
 Olá, Mundo!
 este é o primeiro projeto de ci/cd.
-Status: APROVADO.
+Status: REPROVADO.
 
 Aprendi a trabalhar com Git e GitHub!! 
