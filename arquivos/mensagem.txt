@@ -1,0 +1,3 @@
+Olá, Mundo!
+este é o primeiro projeto de ci/cd.
+Status: APROVADO.
